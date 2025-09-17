@@ -475,4 +475,4 @@ The application will validate these environment variables on startup and log war
 
 This README provides a comprehensive overview of the Voosh Client application architecture, API communication patterns, design decisions, and common questions. The application follows modern React patterns with TypeScript for type safety and maintainability.
 
-For questions or contributions, please refer to the development team or create an issue in the project repository.
+For questions or contributions, please contact sathishbabudeveloper@gmail.com.
